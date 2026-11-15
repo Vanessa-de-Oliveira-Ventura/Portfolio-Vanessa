@@ -26,12 +26,5 @@ Também foram adicionados efeitos de `hover` nos cartões e nas habilidades.
 [Insira aqui o link do GitHub Pages]
 
 ## Link do repositório
-[Insira aqui o link do repositório no GitHub]
+[https://github.com/Vanessa-de-Oliveira-Ventura/Portfolio-Vanessa/tree/main/portfolio_vanessa]
 
-## Personalização antes da publicação
-- [ ] Revisar o texto da apresentação.
-- [ ] Trocar os exemplos de projetos por atividades reais ou remover os cartões que não forem utilizados.
-- [ ] Manter apenas habilidades que representem a pessoa.
-- [ ] Preencher a formação, se desejar.
-- [ ] Substituir o e-mail de exemplo por um endereço autorizado ou remover o botão.
-- [ ] Publicar pelo GitHub Pages e inserir os links acima.
