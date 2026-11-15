@@ -23,8 +23,8 @@ O JavaScript observa o evento `scroll` e adiciona ou remove a classe `show` conf
 Também foram adicionados efeitos de `hover` nos cartões e nas habilidades.
 
 ## Link do site publicado
-[Insira aqui o link do GitHub Pages]
+[https://vanessa-de-oliveira-ventura.github.io/Portfolio-Vanessa/]
 
 ## Link do repositório
-[https://github.com/Vanessa-de-Oliveira-Ventura/Portfolio-Vanessa/tree/main/portfolio_vanessa]
+[https://github.com/Vanessa-de-Oliveira-Ventura/Portfolio-Vanessa/tree/main]
 
